@@ -1,0 +1,1 @@
+# bch-multisig-p2sh-go
